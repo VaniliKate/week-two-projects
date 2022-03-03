@@ -1,6 +1,6 @@
 body {
-    font-family: Quicksand;
-    background-image: url('../images/colorful-3256055__340.jpg');
+    font-family: 'Quicksand', sans-serif;
+    background-image: url('../images/water-1330252__340.webp');
     color: white;
     font-size: 17px;
 }
@@ -11,8 +11,8 @@ h1 {
 }
 
 .container {
-    margin: auto;
     width: 80%;
+    margin: auto;
 }
 
 #year-input {
@@ -48,6 +48,27 @@ h1 {
     box-shadow: 2px 2px #000000;
 }
 
+#result {
+    text-align: center;
+}
+
+.content {
+    background-color: lightcoral;
+    /* height: 600px; */
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    margin-bottom: auto;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px #000000;
+    border-radius: 0.5%;
+}
+
+.research {
+    text-decoration: underline;
+    color: white;
+}
+
 .clear {
     border-radius: 5px;
     color: #ffffff;
@@ -60,17 +81,6 @@ h1 {
     box-shadow: 2px 2px #000000;
 }
 
-#result {
-    text-align: center;
-}
-
-.content {
-    background-color: lightcoral;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 10px;
-    margin-bottom: auto;
-    padding-bottom: 20px;
-    box-shadow: 2px 2px #000000;
-    border-radius: 0.5%;
+a:hover {
+    color: #006B3F;
 }
