@@ -28,7 +28,7 @@ if(dayOfTheWeek=0){
     console.log(Saturday);
 }
 
-if dayOfTheWeek=Sunday && gender=male{
+if dayOfTheWeekSunday && gender=male{
     console.log(Kwasi)
 } else if(daysOfTheWeek=Monday && ){
     console.log(Monday);
