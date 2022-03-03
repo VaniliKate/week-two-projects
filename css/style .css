@@ -9,3 +9,8 @@ h1 {
     font-size: 36px;
     padding-top: 20px;
 }
+
+container {
+    margin: auto;
+    width: 80%;
+}
