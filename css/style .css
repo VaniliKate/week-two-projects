@@ -2,7 +2,6 @@ body {
     font-family: 'Quicksand', sans-serif;
     color: white;
     font-size: 17px;
-
 }
 
 .banner {
@@ -15,7 +14,7 @@ body {
 }
 
 p {
-    text-align: center;
+    text-align: left;
 }
 
 h1 {
@@ -76,12 +75,8 @@ h1 {
 
 }
 
-.content h1 {
-    font-size: 70px;
-    margin-top: 80px;
-}
 
-.content p {
+p {
     margin: 20px auto;
     font-weight: 100;
     line-height: 25px;
