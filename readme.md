@@ -31,7 +31,7 @@ Make sure you have a browser with javascript enabled.
 
 ### Setup Environment
 
-1. Clone the repo : `git clone https://github.com/katevanili/akan-generator.git`
+1. Clone the repo : `git clone https://github.com/VaniliKate/week-two-projects.git`
 2. Locate `index.html` from the file
 3. Run `index.html` file in your favorite browser
 
@@ -43,3 +43,6 @@ Make sure you have a browser with javascript enabled.
 -   Input day of birth.
 -   Select Gender.
 -   Output Akan name.
+
+
+
