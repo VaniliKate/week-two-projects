@@ -6,7 +6,7 @@ The Akan people of Ghana frequently name their children after the day of the wee
 This Web application will take in a user's year of birth, month of birth, day of birth and selected gender.It will then be possible to determine the exact day of the week the user was born and give them an Akan name based on their gender.
 
 ## Author
-Kate Vanili
+Kate Vanili, a full stack web developer based in Nairobi,Kenya.
 
 # Table of Content
 
