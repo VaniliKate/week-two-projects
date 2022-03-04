@@ -4,6 +4,19 @@ body {
     font-size: 17px;
 }
 
+.box {
+    background-color: rgba(40, 156, 177, 0.72);
+    /* height: 600px; */
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: auto;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px #000000;
+    border-radius: 0.5%;
+    position: absolute;
+}
+
 .banner {
     width: 100%;
     height: 100vh;
@@ -138,4 +151,30 @@ span {
 
 a:hover {
     color: #006B3F;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    margin: 20px 0py;
+}
+
+.navbar ul li {
+
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 25px;
+    transition: all .5s ease;
 }
