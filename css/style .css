@@ -57,17 +57,7 @@ h1 {
     text-align: center;
 }
 
-.content {
-    background-color: lightcoral;
-    /* height: 600px; */
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-top: 10px;
-    margin-bottom: auto;
-    padding-bottom: 20px;
-    box-shadow: 2px 2px #000000;
-    border-radius: 0.5%;
-}
+
 
 .research {
     text-decoration: underline;
