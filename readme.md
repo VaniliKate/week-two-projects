@@ -44,5 +44,10 @@ Make sure you have a browser with javascript enabled.
 -   Select Gender.
 -   Output Akan name.
 
+![alt text](images/home.jpg)
+
+![alt text](images/output.jpg)
+
+![alt text](images/output1.jpg)
 
 
