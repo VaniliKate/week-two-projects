@@ -44,6 +44,7 @@ Make sure you have a browser with javascript enabled.
 -   Select Gender.
 -   Output Akan name.
 ## Live site link
+https://vanilikate.github.io/week-two-projects/
 
 ![alt text](images/home.png)
 
